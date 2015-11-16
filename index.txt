@@ -1,6 +1,6 @@
 HTML Basics
 
-The “frontend” of a webpage consists of:
+The "frontend" of a webpage consists of:
 HTML = HyperText Markup Language
 content
 CSS = Cascading Style Sheet
@@ -9,26 +9,27 @@ JS = Javascript
 interactivity
 
 Vocabulary
-element: <tag attribute="value">content</tag>
+elements have the following syntax: &lt;tag attribute="value"&gt;content&lt;/tag&gt;
 
 Block vs. Inline
 block-level elements always starts on a new line and take up the full width available
 inline-elements do not start on a new line and only takes up as much width as necessary
 
 Block-level elements
-heading: <h1></h1> through <h6></h6>
-paragraph: <p></p>
-ordered list: <ol></ol>
-unordered list: <ul></ul>
-list item: <li></li>
-form: <form></form>
-div (container): <div></div>
+heading: &lt;h1&gt;&lt;/h1&gt; through &lt;h6&gt;&lt;/h6&gt;
+horizontal rule (line): &lt;hr&gt;
+paragraph: &lt;p&gt;&lt;/p&gt;
+ordered list: &lt;ol&gt;&lt;/ol&gt;
+unordered list: &lt;ul&gt;&lt;/ul&gt;
+list item: &lt;li&gt;&lt;/li&gt;
+form: &lt;form&gt;&lt;/form&gt;
+div (container): &lt;div&gt;&lt;/div&gt;
 
 Inline elements
-line break: <br>
-image: <img src=”URL”>
-link (anchor): <a href=”URL”></a>
-code: <code></code>
-bold: <strong></strong>
-italicized: <em></em>
-span (container): <span></span>
+line break: &lt;br&gt;
+image: &lt;img src="URL"&gt;
+link (anchor): &lt;a href="URL"&gt;&lt;/a&gt;
+code: &lt;code&gt;&lt;/code&gt;
+bold: &lt;strong&gt;&lt;/strong&gt;
+italicized: &lt;em&gt;&lt;/em&gt;
+span (container): &lt;span&gt;&lt;/span&gt;
