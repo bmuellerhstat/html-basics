@@ -1,0 +1,40 @@
+body {
+    font-family: "Crimson Text", "Georgia";
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+h1,h2 {
+    font-family: "Oswald", "Helvetica Neue";
+    text-align: center;
+    color: #2884C3;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+code {
+    color: #CE234C;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #e9e9e9;
+    top: -1px;
+    padding: 50px;
+    padding-top: 0px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
