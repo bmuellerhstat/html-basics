@@ -16,3 +16,14 @@ Observe the files in this repo:
 * `result.png` is the result you should be aiming for with `index.html`.
 * `style.css` is the styling that will make `index.html` look pretty.  You're welcome.
 
+## Directions
+* Fork and clone this repo.
+* Little by little, start copying/pasting _small_ chunks of raw text from `index.txt` to `index.html` **INSIDE** here:
+```  
+    <div class="wrapper">
+     
+    </div>
+```  
+* Use the appropriate `HTML` syntax to format the code until it looks like `result.png`.
+
+Good luck!
