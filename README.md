@@ -25,5 +25,6 @@ Observe the files in this repo:
     </div>
 ```  
 * Use the appropriate `HTML` syntax to format the code until the preview looks like `result.png`.
+* If you finish early, add a section to the bottom with links to helpful resources for learning more HTML Basics.
 
 Good luck!
