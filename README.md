@@ -5,10 +5,14 @@ _The purpose of this repository is to help you practice using_ `HTML` _elements 
 ## Before you begin
 Observe the files in this repo:  
 
-* `index.html` is where you will be doing your coding
+* `index.html` is where you will be doing your coding.
 * `index.md` is just an example of how plain the **HTML Basics** look in markdown syntax.  You can ignore this file if you want to.
-* `index.txt` is the raw code you will be copying/pasting into `index.html`
-  * NOTE: embedding `code` inside HTML is tricky. It often requires using `&lt;` instead of `<` and `&gt;` instead of `>`.
+* `index.txt` is the raw code you will be copying/pasting into `index.html`.
+  * NOTE: embedding `code` inside HTML is tricky. It often requires using 
+  * `&lt;` instead of `<` and 
+  * `&gt;` instead of `>`.
+  * This has already been converted for you.
 * `README.md` is the file you're reading.  You should be reading it on GitHub.
-* `result.png` is the result you should be aiming for with `index.html`
+* `result.png` is the result you should be aiming for with `index.html`.
 * `style.css` is the styling that will make `index.html` look pretty.  You're welcome.
+
