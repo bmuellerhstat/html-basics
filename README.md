@@ -24,6 +24,6 @@ Observe the files in this repo:
      
     </div>
 ```  
-* Use the appropriate `HTML` syntax to format the code until it looks like `result.png`.
+* Use the appropriate `HTML` syntax to format the code until the preview looks like `result.png`.
 
 Good luck!
