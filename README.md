@@ -25,6 +25,7 @@ Observe the files in this repo:
     </div>
 ```  
 * Use the appropriate `HTML` syntax to format the code until the preview looks like `result.png`.
+  * HINT: To make your `code` show up in red, surround it with the proper open/close `<code>` tags.
 * Make sure you `add`/`commit`/`push`.  Then go into your repo's settings on github and change gh-pages to use the `master` branch.
 * If you finish early, add a section to the bottom with links to helpful resources for learning more HTML Basics.
 
