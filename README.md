@@ -1,6 +1,6 @@
 # HTML Basics
 ---
-_The purpose of this repository is to help you practice using_ `HTML` _elements in their proper syntax._
+_The purpose of this repository is to help you practice using_ `HTML(Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications.)` _elements in their proper syntax._
 
 ## Before you begin
 Observe the files in this repo:  
