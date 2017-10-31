@@ -29,4 +29,4 @@ Observe the files in this repo:
 * Make sure you `add`/`commit`/`push`.  Then go into your repo's settings on github and change gh-pages to use the `master` branch.
 * If you finish early, add a section to the bottom with links to helpful resources for learning more HTML Basics.
 
-Good luck!
+Good luck!!
