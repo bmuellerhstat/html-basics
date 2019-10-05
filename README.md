@@ -1,10 +1,10 @@
 # HTML Basics
----
+----------------------------------------------------------------------------------------------------------------
 _The purpose of this repository is to help you practice using_ `HTML` _elements in their proper syntax._
 
 ## Before you begin
 Observe the files in this repo:  
-
+-----------------------------------------------------------------------------------------------------------------
 * `index.html` is where you will be doing your coding.
 * `index.md` is just an example of how plain the **HTML Basics** look in markdown syntax.  You can ignore this file if you want to.
 * `index.txt` is the raw code you will be copying/pasting into `index.html`.
