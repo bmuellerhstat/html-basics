@@ -1,3 +1,5 @@
+_Note to contributors: this repository is currently NOT accepting pull requests. Please DO NOT SUBMIT a pull request._
+
 # HTML Basics
 ---
 _The purpose of this repository is to help you practice using_ `HTML` _elements in their proper syntax._
