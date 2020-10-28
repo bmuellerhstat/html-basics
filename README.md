@@ -3,6 +3,8 @@ _Note to contributors: this repository is currently NOT accepting pull requests.
 # HTML Basics
 ---
 _The purpose of this repository is to help you practice using_ `HTML` _elements in their proper syntax._
+About html -
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items
 
 ## Before you begin
 Observe the files in this repo:  

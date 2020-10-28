@@ -2,11 +2,15 @@ HTML Basics
 
 The "frontend" of a webpage consists of:
 HTML = HyperText Markup Language
-content
+This is a vital and fundamental language ,use to build webpages and combination of webpages known as website .
+
 CSS = Cascading Style Sheet
 style
+Css is used to give styling and add more stylish features in our webpages such as font color , size and basic colors
+
 JS = Javascript
-interactivity
+
+This build interactivity with user and website
 
 Vocabulary
 elements have the following syntax: &lt;tag attribute="value"&gt;content&lt;/tag&gt;
