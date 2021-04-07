@@ -20,6 +20,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  color: black;
+}
+
 .title {
   text-align: center;
   font-size: 48px;
