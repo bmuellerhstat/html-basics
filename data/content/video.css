@@ -1,0 +1,93 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body {
+  font-family: 'Verdana', sans-serif;
+  background-image: url('https://abload.de/img/bgvskt1.jpg');
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+  color: aliceblue;
+}
+
+a {
+  color: darkmagenta;
+  text-decoration: none;
+}
+
+.title {
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.description {
+  padding: 30px;
+  text-align: center;
+  border: 4px solid aliceblue;
+  margin: 30px 100px;
+}
+
+.video-gallery {
+  margin-top: 20px;
+  display: Flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.video {
+  width: 400px;
+  height: 300px;
+  margin: 30px;
+}
+
+
+.video .thumbnail {
+  width: 100%;
+  height: 100%; 
+  border: 5px solid white;
+}
+
+/* FOOTER NAVIGATION */
+
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-button {
+  float: right;
+}
+
+.contact-button a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid darkmagenta; 
+  position: relativ;
+}
+
+a:hover {
+  color: black;
+}
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: darkmagenta;
+  text-decoration: none;
+}
