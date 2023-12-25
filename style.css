@@ -4,10 +4,13 @@ body {
     line-height: 1.5;
 }
 
+*{
+    color: #fff;
+}
 h1,h2 {
     font-family: "Oswald", "Helvetica Neue";
     text-align: center;
-    color: #2884C3;
+    color: #ffffff;
 }
 
 h1 {
@@ -17,7 +20,7 @@ h1 {
 hr {
     border: 0;
     height: 1px;
-    background: #333;
+    background: #21c40b;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
@@ -28,7 +31,7 @@ code {
 .wrapper {
     width: 1000px;
     margin: 0 auto;
-    background-color: #e9e9e9;
+    background-color: #005547;
     top: -1px;
     padding: 50px;
     padding-top: 0px;
